@@ -112,7 +112,7 @@ nav ul {
 
 .hero {
   min-height: 90vh;
-  width: 95%;
+  width: 85%;
   margin: auto;
   align-items: center;
   justify-content: space-between;
@@ -163,7 +163,7 @@ nav ul {
 }
 
 .feature > .feature_container {
-  width: 95%;
+  width: 85%;
   margin: auto;
   align-items: center;
   justify-content: space-between;
@@ -219,7 +219,7 @@ nav ul {
 }
 
 .contact > .contact_container {
-  width: 95%;
+  width: 85%;
   margin: auto;
   align-items: center;
   justify-content: center;
@@ -254,7 +254,7 @@ nav ul {
 }
 
 .footer > .footer_container {
-  width: 95%;
+  width: 85%;
   padding-top: 5rem;
   margin: auto;
   align-items: center;
@@ -350,7 +350,7 @@ nav ul {
 
   .hero > .hero_left form input {
     margin: auto;
-    width: 92vw;
+    width: 93%;
     gap: 1rem;
     padding: 1.5rem;
   }
