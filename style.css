@@ -90,7 +90,6 @@ header > nav {
   margin: auto;
   min-height: 10vh;
   align-items: center;
-  cursor: pointer;
 }
 
 .header_logo {
@@ -283,6 +282,7 @@ nav ul {
   padding-left: 10rem;
   padding-bottom: 1rem;
   color: var(--Light_gray);
+  font-size: 1.3rem;
 }
 
 .footer_left {
@@ -297,7 +297,7 @@ nav ul {
 
 .footer_left li i {
   color: #fff;
-  width: 100%;
+  font-size: 3rem;
 }
 
 @media screen and (max-width: 932px) {
