@@ -326,14 +326,20 @@ nav ul {
 
   .header_logo {
     padding-left: 4rem;
-    margin-right: 20%;
+    margin-right: 10%;
+  }
+
+  .header_logo img {
+    width: 60%;
   }
 
   nav ul {
-    flex: 1 1 70rem;}
+    flex: 1 1 70rem;
+  }
 
   header > nav li a {
-    padding-right: 2px;
+    font-size: 1.7rem;
+    padding-right: 5px;
   }
   /* section for hero */
 
@@ -469,6 +475,7 @@ nav ul {
     padding-left: 4rem;
     padding-bottom: 1rem;
     color: var(--Light_gray);
+    font-size: 1.8rem;
   }
 
   .footer_left {
