@@ -157,7 +157,7 @@ nav ul {
 
 .feature a {
   text-decoration: underline;
-  color: rgb(41, 238, 238);
+  color: rgb(62, 226, 226);
   font-size: 1.5rem;
 }
 
@@ -383,6 +383,13 @@ nav ul {
 
   .feature {
     flex-wrap: wrap;
+  }
+
+  .feature a {
+    text-decoration: underline;
+    color: rgb(61, 194, 161);
+    /* color: rgb(62, 226, 226); */
+    font-size: 2rem;
   }
 
   .feature > .feature_container {
