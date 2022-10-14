@@ -325,9 +325,16 @@ nav ul {
   }
 
   .header_logo {
+    padding-left: 4rem;
     margin-right: 20%;
   }
 
+  nav ul {
+    flex: 1 1 70rem;}
+
+  header > nav li a {
+    padding-right: 2px;
+  }
   /* section for hero */
 
   .hero {
